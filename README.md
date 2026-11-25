@@ -14,6 +14,9 @@ woa23_decav81B0_t00_04.nc is from NOAA's World Ocean Atlas 2023 (https://www.nce
 
 *BEDMAP*
 
-bm3_bed.tif bm3_surface.tif bm3_thickness.tif bm3_masks.tif
+bm3_bed.tif 
+bm3_surface.tif 
+bm3_thickness.tif 
+bm3_masks.tif
 
 are from the British Antarctic Survey's BEDMAP2 dataset (https://www.bas.ac.uk/project/bedmap-2/).
